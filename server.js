@@ -13,8 +13,8 @@ const PORT = process.env.PORT || 3000
 
 
 //here the port is setup to run the app
-http.listen(port , () => {
-    console.log(`Listening at port ${port}`)
+http.listen(PORT , () => {
+    console.log(`Listening at port ${PORT}`)
 })
 
 // all the frontend and client side backend are rendered here
