@@ -7,6 +7,7 @@
 const { Socket } = require('dgram')
 const express = require('express')
 const app = express()
+const cors = require('cors')
 const http = require('http').createServer(app)
 const port = process.env.port || 3000
 
@@ -18,6 +19,8 @@ http.listen(port , () => {
 
 // all the frontend and client side backend are rendered here
 app.use(express.static(__dirname + '/public'))
+app.use(cors())
+
 
 // frontend rendered here on response of home page 
 app.get('/' , (req , res) => {
