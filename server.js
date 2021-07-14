@@ -9,7 +9,7 @@ const express = require('express')
 const app = express()
 const cors = require('cors')
 const http = require('http').createServer(app)
-const port = process.env.port || 3000
+const PORT = process.env.PORT || 3000
 
 
 //here the port is setup to run the app
