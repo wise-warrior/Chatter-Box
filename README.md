@@ -4,7 +4,10 @@
 Its a Real time Chat Application , wherein multiple users can 
 chat with one another. Before chatting you need to enter your
 name and all your messages will reflect the same. Also supports 
-Emojis 🤩😎😁🔥💯😍 in chats.
+Emojis 🤩😎😁🔥💯😍 in chats. The Awesome UI is shown below 🤩👇👇
+
+
+<p><img src="https://user-images.githubusercontent.com/83507719/211205346-51f7ab58-3e2a-4c47-8423-da274e871488.png" /></p>
 
 ## Software Summary :
 
