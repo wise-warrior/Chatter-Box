@@ -1,5 +1,4 @@
-
-# Chatter-Box 😎
+# <img src="https://user-images.githubusercontent.com/83507719/212477757-0e34fcfa-738b-4025-8a05-7f2df8583bbf.png" alt="name of tech" width="50" height="40"/> Chatter-Box 😎
 
 Its a Real time Chat Application , wherein multiple users can 
 chat with one another. Before chatting you need to enter your
